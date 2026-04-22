@@ -15,7 +15,7 @@ An alternative is better if it is closer to the positive ideal and farther from 
 
 ## Files
 
-- [TOPSIS.py](models/TOPSIS.py): reusable Python class
+- [TOPSIS.py](/models/TOPSIS.py): reusable Python class
 - [TOPSIS.ipynb](examples/TOPSIS.ipynb): notebook version for learning and experimentation
 
 ## Requirements
