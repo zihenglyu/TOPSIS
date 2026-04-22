@@ -2,7 +2,7 @@
 
 This repository contains a simple Python implementation of **TOPSIS** (Technique for Order Preference by Similarity to Ideal Solution) for multi-criteria decision making.
 
-The main file is [TOPSIS.py](TOPSIS.py), which provides a `TOPSIS` class you can use to rank alternatives based on multiple criteria. A notebook version is also available in [TOPSIS.ipynb](TOPSIS.ipynb).
+The main file is [TOPSIS.py](models/TOPSIS.py), which provides a `TOPSIS` class you can use to rank alternatives based on multiple criteria. A notebook version is also available in [TOPSIS.ipynb](examples/TOPSIS.ipynb).
 
 ## What TOPSIS Does
 
@@ -15,7 +15,7 @@ An alternative is better if it is closer to the positive ideal and farther from 
 
 ## Files
 
-- [TOPSIS.py](/models/TOPSIS.py): reusable Python class
+- [TOPSIS.py](models/TOPSIS.py): reusable Python class
 - [TOPSIS.ipynb](examples/TOPSIS.ipynb): notebook version for learning and experimentation
 
 ## Requirements
